@@ -1,5 +1,8 @@
 # Responsive Squid Game Website with HTML, CSS & JavaScript
 
+[Live Link](https://nikhil15r.github.io/Squid-Game-Frontend/)
+
+
 This is a simple website template for a Squid Game fan page. It provides information about the show, its cast, reviews, and a contact form for subscriptions.
 
 ## Table of Contents
